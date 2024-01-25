@@ -3,10 +3,7 @@
     font-family: "Crimson";
     src: url("fonts/Crimson_Text/CrimsonText-Regular.ttf")
 }
-body{
-    background-image: url(img/pentagon.png);
-}
- 
+
 }
 div#general{
     background-color: aquamarine;
